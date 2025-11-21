@@ -1,0 +1,29 @@
+{
+    "livres": [
+        {
+            "type": "livre",
+            "titre": "Le Petit Prince",
+            "auteur": "Antoine de Saint-Exupéry",
+            "isbn": "123456"
+        },
+        {
+            "type": "livre_numerique",
+            "titre": "Python",
+            "auteur": "Jean Dupont",
+            "isbn": "987654",
+            "taille_fichier": 12
+        }
+    ],
+    "utilisateurs": [
+        {
+            "username": "admin",
+            "mdp": "admin",
+            "admin": true
+        },
+        {
+            "username": "michelle",
+            "mdp": "123456",
+            "admin": false
+        }
+    ]
+}
